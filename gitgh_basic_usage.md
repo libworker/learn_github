@@ -10,7 +10,9 @@ https://cli.github.com/manual/gh_auth_login
 * create github account and login
    
     use: C:\Program Files\Git\bin\bash
+    
     type: gh auth login
+    
     auth with browser or token
    
     https://cli.github.com/manual/gh_auth_login

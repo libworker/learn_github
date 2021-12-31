@@ -1,4 +1,4 @@
-# github basic usage
+# gitgh basic usage
 ## github with command line
 ### create remote repository
 https://cli.github.com/manual/gh_repo_create
